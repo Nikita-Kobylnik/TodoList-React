@@ -1,0 +1,26 @@
+.AddTodo {
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  &__input {
+    width: 100%;
+    outline: none;
+    border-style: none;
+    font-weight: 400;
+    font-size: 18px;
+  }
+  &__btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3px;
+    border-style: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  &__icon {
+    width: 22px;
+    height: 22px;
+    color: #645cbb;
+  }
+}

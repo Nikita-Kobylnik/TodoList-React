@@ -1,0 +1,17 @@
+.Delete {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #645cbb;
+  color: #fff;
+  border-style: none;
+  border-radius: 100%;
+  padding: 3px;
+  border: 1px solid #645cbb;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  &:hover {
+    color: #645cbb;
+    background-color: #fff;
+  }
+}
