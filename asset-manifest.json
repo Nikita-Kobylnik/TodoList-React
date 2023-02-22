@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nikita-Kobylnik/TodoList-React/static/css/main.6d75d2b4.css",
+    "main.js": "/Nikita-Kobylnik/TodoList-React/static/js/main.c6bc8eda.js",
+    "index.html": "/Nikita-Kobylnik/TodoList-React/index.html",
+    "main.6d75d2b4.css.map": "/Nikita-Kobylnik/TodoList-React/static/css/main.6d75d2b4.css.map",
+    "main.c6bc8eda.js.map": "/Nikita-Kobylnik/TodoList-React/static/js/main.c6bc8eda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d75d2b4.css",
+    "static/js/main.c6bc8eda.js"
+  ]
+}
